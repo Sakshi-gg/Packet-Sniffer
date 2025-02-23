@@ -10,6 +10,14 @@ This project is a Packet_Sniffer that captures network packets, analyzes their c
 
 ✅ Logging & Reporting: Generates PDF reports of network activity.
 
+# Technologies Used
+
+**Programming Language**: Python 3.11+
+
+**Libraries**: PyShark, fpdf, pandas, matplotlib
+
+**Tools**: Wireshark, TCPDump
+
 # Installation & Setup
 
 ## Prerequisites -
